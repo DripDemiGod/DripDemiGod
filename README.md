@@ -2,7 +2,7 @@
   Welcome! I'm Drip God!
 </h1>
 <h3 align="center">
-  💻 Self-Proclaimed Full-Stack Developer | 🇳🇿 New Zealand
+  💻 Washed Out Dev | 🇳🇿 New Zealand
 </h3>
 
 ## About Me
